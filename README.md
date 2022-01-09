@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Hafeez Jimoh.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 <!--
 **jimohafeezco/jimohafeezco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

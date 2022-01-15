@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Hafeez Jimoh. I have interests in Robotics and how to control them. I am also a Data Analyst and Trainer. I have helped hundreds of people
-transition into Data Analysis. I am currently developing my <a href="https://www.youtube.com/channel/UCoj0BKNug7ksYeL38tM_bkg">YouTube channel</a> </p>where I share contents related to Power BI, Excel, Machine Learning etc.</p>
+transition into Data Analysis. I am currently developing my <a href="https://www.youtube.com/channel/UCoj0BKNug7ksYeL38tM_bkg">YouTube channel</a> where I share contents related to Power BI, Excel, Machine Learning etc.</p>
 
 <p align='center'>For enquiries, reach out to me on <a href="https://www.linkedin.com/in/jimohafeezco">Linkedin</a> or over on <a href="https://twitter.com/jimohhafeezco">Twitter</a>.</p>
 
